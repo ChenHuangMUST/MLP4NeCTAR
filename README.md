@@ -1,2 +1,2 @@
 # MLP4NeCTAR
-train MLP for NeCTAR
+Train MLP for NeCTAR
